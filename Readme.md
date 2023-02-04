@@ -1,6 +1,5 @@
 # 알고리즘 스터디 (Java)
 
-***
 
 > 팀원 : 권기윤, 권현우, 박성준, 송진현, 이채정
 
@@ -40,5 +39,11 @@
 
 - 매주 수요일 오후 10시 디스코드를 통해 문제 풀이 공유 및 문제 선정
 - 문제 난이도 및 선정
-  - 백준 사이트에 난이도 실버를 기준으로 하고, 추후 난이도 상승
-- 백준 사이트 그룹에서 문제집 생성 후, 문제 공유 ([https://www.acmicpc.net/group/16736](https://www.acmicpc.net/group/16736))
+  - [백준 사이트](https://www.acmicpc.net)
+    - 난이도 실버를 기준으로 하고, 추후 난이도 상승
+    - 백준 사이트 그룹[https://www.acmicpc.net/group/16736]에서 문제집 생성 후, 문제 공유
+  - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+    - 난이도 D2 ~ D4를 기준
+
+<br/>
+<br/>
