@@ -1,17 +1,17 @@
-# ¾Ë°í¸®Áò ½ºÅÍµð (Java)
+# ì•Œê³ ë¦¬ì¦˜ ìŠ¤í„°ë”” (Java)
 
 ***
 
-> ÆÀ¿ø : ±Ç±âÀ±, ±ÇÇö¿ì, ¹Ú¼ºÁØ, ¼ÛÁøÇö, ÀÌÃ¤Á¤
+> íŒ€ì› : ê¶Œê¸°ìœ¤, ê¶Œí˜„ìš°, ë°•ì„±ì¤€, ì†¡ì§„í˜„, ì´ì±„ì •
 
 <br/>
 <br/>
 
-## ? ¹®Á¦ ¸ñÂ÷
+## âœ… ë¬¸ì œ ëª©ì°¨
 
-³¯Â¥ | ÁÖÁ¦ | ¹®Á¦
+ë‚ ì§œ | ì£¼ì œ | ë¬¸ì œ
 :---: | :---: | :---:
-2023-02-01 | ÀÚ·á±¸Á¶ (½ºÅÃ, Å¥, ¿ì¼±¼øÀ§ Å¥, Æ®¸®, µ¦, ¸Ê) | [¹Ù·Î°¡±â](https://github.com/psj98/Java_Study_Coding_18/tree/main/baekjoon/src/study_230201)
+2023-02-01 | ìžë£Œêµ¬ì¡° (ìŠ¤íƒ, í, ìš°ì„ ìˆœìœ„ í, íŠ¸ë¦¬, ë±, ë§µ) | [ë°”ë¡œê°€ê¸°](https://github.com/psj98/Java_Study_Coding_18/tree/main/baekjoon/src/study_230201)
 2023-02-08 | ?? | []()
 
 <br/>
@@ -20,25 +20,25 @@
 <br/>
 <br/>
 
-## ? ¾ð¾î
+## âœ… ì–¸ì–´
 
 - Java
 
 <br/>
 <br/>
 
-## ? °øºÎ ¸ñÀû
+## âœ… ê³µë¶€ ëª©ì 
 
-- Java ¾ð¾î¿¡ ´ëÇÑ ÀÌÇØ
-- ÀÚ·á±¸Á¶ ÀÍ¼÷ÇØÁö±â
-- »ï¼º SW ¿ª·® Å×½ºÆ® Advanced Ãëµæ
+- Java ì–¸ì–´ì— ëŒ€í•œ ì´í•´
+- ìžë£Œêµ¬ì¡° ìµìˆ™í•´ì§€ê¸°
+- ì‚¼ì„± SW ì—­ëŸ‰ í…ŒìŠ¤íŠ¸ Advanced ì·¨ë“
 
 <br/>
 <br/>
 
-## ? ±ÔÄ¢
+## âœ… ê·œì¹™
 
-- ¸ÅÁÖ ¼ö¿äÀÏ ¿ÀÈÄ 10½Ã µð½ºÄÚµå¸¦ ÅëÇØ ¹®Á¦ Ç®ÀÌ °øÀ¯ ¹× ¹®Á¦ ¼±Á¤
-- ¹®Á¦ ³­ÀÌµµ ¹× ¼±Á¤
-  - ¹éÁØ »çÀÌÆ®¿¡ ³­ÀÌµµ ½Ç¹ö¸¦ ±âÁØÀ¸·Î ÇÏ°í, ÃßÈÄ ³­ÀÌµµ »ó½Â
-- ¹éÁØ »çÀÌÆ® ±×·ì¿¡¼­ ¹®Á¦Áý »ý¼º ÈÄ, ¹®Á¦ °øÀ¯ ([https://www.acmicpc.net/group/16736](https://www.acmicpc.net/group/16736))
+- ë§¤ì£¼ ìˆ˜ìš”ì¼ ì˜¤í›„ 10ì‹œ ë””ìŠ¤ì½”ë“œë¥¼ í†µí•´ ë¬¸ì œ í’€ì´ ê³µìœ  ë° ë¬¸ì œ ì„ ì •
+- ë¬¸ì œ ë‚œì´ë„ ë° ì„ ì •
+  - ë°±ì¤€ ì‚¬ì´íŠ¸ì— ë‚œì´ë„ ì‹¤ë²„ë¥¼ ê¸°ì¤€ìœ¼ë¡œ í•˜ê³ , ì¶”í›„ ë‚œì´ë„ ìƒìŠ¹
+- ë°±ì¤€ ì‚¬ì´íŠ¸ ê·¸ë£¹ì—ì„œ ë¬¸ì œì§‘ ìƒì„± í›„, ë¬¸ì œ ê³µìœ  ([https://www.acmicpc.net/group/16736](https://www.acmicpc.net/group/16736))
