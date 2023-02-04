@@ -1,4 +1,4 @@
-package study.study_230201;
+package study_230201.problemset;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class alg_10845 {
+public class alg_10866 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -19,14 +19,28 @@ public class alg_10845 {
         for (int i = 0; i < n; i++) {
             String[] temp = br.readLine().split(" ");
 
-            if (temp[0].equals("push")) {
+            if (temp[0].equals("push_front")) {
+                list.add(0, temp[1]);
+            }
+
+            else if (temp[0].equals("push_back")) {
                 list.add(temp[1]);
             }
 
-            else if (temp[0].equals("pop")) {
+            else if (temp[0].equals("pop_front")) {
                 if (list.size() != 0) {
                     bw.write(list.get(0) + "\n");
                     list.remove(0);
+                }
+
+                else
+                    bw.write(-1 + "\n");
+            }
+
+            else if (temp[0].equals("pop_back")) {
+                if (list.size() != 0) {
+                    bw.write(list.get(list.size() - 1) + "\n");
+                    list.remove(list.size() - 1);
                 }
 
                 else

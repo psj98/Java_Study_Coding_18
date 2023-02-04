@@ -1,4 +1,4 @@
-package study.study_230201;
+package study_230201.problemset;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
