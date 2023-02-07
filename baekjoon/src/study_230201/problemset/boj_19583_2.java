@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class alg_19583_2 {
+public class boj_19583_2 {
     static StringTokenizer stk;
 
     public static void main(String[] args) throws Exception {

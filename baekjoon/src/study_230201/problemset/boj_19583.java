@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.HashSet;
 import java.util.Set;
 
-public class alg_19583 {
+public class boj_19583 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Set<String> in = new HashSet<>();
