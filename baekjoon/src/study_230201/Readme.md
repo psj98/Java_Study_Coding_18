@@ -30,5 +30,5 @@
 ## ✅ SW Expert Academy
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2112 | [[모의 SW 역량테스트] 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) | 모의 SW 역량테스트 | 
+01 | 2112 | [[모의 SW 역량테스트] 보호 필름](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) | 모의 SW 역량테스트 | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/baekjoon/src/study_230201/problemset/swea_2112.java)
 
