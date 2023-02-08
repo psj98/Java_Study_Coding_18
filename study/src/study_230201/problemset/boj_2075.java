@@ -10,10 +10,11 @@ public class boj_2075 {
 
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder()); // 내림차순 우선순위 큐
 
         int n = Integer.parseInt(br.readLine());
 
+        // 값 저장
         for (int i = 0; i < n; i++) {
             String[] str = br.readLine().split(" ");
             for (int j = 0; j < str.length; j++) {
