@@ -11,7 +11,7 @@ import java.util.Map;
 public class boj_25972 {
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        Map<Integer, Integer> mp = new HashMap<>();
+        Map<Integer, Integer> mp = new HashMap<>(); // 좌표, 도미노 높이
         int last = -1, ans = 0;
 
         int n = Integer.parseInt(br.readLine());
@@ -22,13 +22,14 @@ public class boj_25972 {
         }
 
         List<Integer> keySet = new ArrayList<>(mp.keySet());
-        Collections.sort(keySet);
+        Collections.sort(keySet); // 키 값 기준으로 정렬
 
-        for (int key : keySet) {
+        // 바로 옆의 도미노만 체크
+		for(int key : keySet) {
             if (key > last)
                 ans++;
-
-            last = Math.max(last, mp.get(key) + key);
+            
+            last = mp.get(key) + key;
         }
 
         System.out.println(ans);
