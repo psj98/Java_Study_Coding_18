@@ -18,10 +18,13 @@ public class boj_10828 {
 
         for (int i = 0; i < n; i++) {
             String[] temp = bf.readLine().split(" ");
+            
+            // push
             if (temp[0].equals("push")) {
                 list.add(temp[1]);
             }
 
+            // pop
             else if (temp[0].equals("pop")) {
                 if (list.size() != 0) {
                     bw.write(list.get(list.size() - 1) + "\n");
@@ -30,10 +33,12 @@ public class boj_10828 {
                     bw.write(-1 + "\n");
             }
 
+            // size
             else if (temp[0].equals("size")) {
                 bw.write(list.size() + "\n");
             }
 
+            // empty
             else if (temp[0].equals("empty")) {
                 if (list.size() == 0)
                     bw.write(1 + "\n");
@@ -41,12 +46,14 @@ public class boj_10828 {
                     bw.write(0 + "\n");
             }
 
+            // top
             else if (temp[0].equals("top")) {
                 if (list.size() != 0)
                     bw.write(list.get(list.size() - 1) + "\n");
                 else
                     bw.write(-1 + "\n");
             }
+            
             bw.flush();
         }
 
