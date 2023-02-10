@@ -17,7 +17,7 @@
 02 | 14627 | [파닭파닭](https://www.acmicpc.net/problem/14627) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | []()
 03 | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
 04 | 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-05 | 23254 | [나는 기말고사형 인간이야](https://www.acmicpc.net/problem/23254) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+05 | 23254 | [나는 기말고사형 인간이야](https://www.acmicpc.net/problem/23254) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_23254.java)
 06 | 23309 | [철도 공사](https://www.acmicpc.net/problem/23309) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
 07 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
 
