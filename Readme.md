@@ -10,8 +10,8 @@
 
 날짜 | 주제 | 문제
 :---: | :---: | :---:
-2023-02-01 | 자료구조 (Stack, Queue, Priority Queue, Tree, Deque, Map) | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/baekjoon/src/study_230201)
-2023-02-08 | 자료구조 (Stack, Queue, Linked-List), Binary Search, 재귀, 백트래킹, 조합 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/baekjoon/src/study_230208)
+2023-02-01 | 자료구조 (Stack, Queue, Priority Queue, Tree, Deque, Map) | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230201)
+2023-02-08 | 자료구조 (Stack, Queue, Linked-List), Binary Search, 재귀, 백트래킹, 조합 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230208)
 
 <br/>
 
@@ -41,7 +41,7 @@
 - 문제 난이도 및 선정
   - [백준 사이트](https://www.acmicpc.net)
     - 난이도 실버를 기준으로 하고, 추후 난이도 상승
-    - 백준 사이트 그룹[https://www.acmicpc.net/group/16736]에서 문제집 생성 후, 문제 공유
+    - 백준 사이트 그룹[https://www.acmicpc.net/group/16736] 에서 문제집 생성 후, 문제 공유
   - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
     - 난이도 D2 ~ D4를 기준
   - [Code Tree](https://www.codetree.ai/landing)
