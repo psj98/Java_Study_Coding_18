@@ -20,8 +20,8 @@
 05 | 23254 | [나는 기말고사형 인간이야](https://www.acmicpc.net/problem/23254) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_23254.java)
 06 | 23309 | [철도 공사](https://www.acmicpc.net/problem/23309) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
 07 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-
-- 2문제 추가 예정
+08 | 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | <img src="https://static.solved.ac/tier_small/8.svg" width=20px> | []()
+09 | 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | []()
 
  
 <br/>
