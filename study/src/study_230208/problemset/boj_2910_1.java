@@ -18,8 +18,8 @@ public class boj_2910_1 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringBuilder sb = new StringBuilder();
 		StringTokenizer stk;
-		Map<String, Pair> map = new HashMap<>(); // ?ˆ˜, ?œ„ì¹?, ?šŸ?ˆ˜
-		int idx = 0; // ?œ„ì¹?
+		Map<String, Pair> map = new HashMap<>(); // ¼ö, À§Ä¡, È½¼ö
+		int idx = 0; // À§Ä¡
 
 		br.readLine();
 
@@ -29,12 +29,12 @@ public class boj_2910_1 {
 			if (!map.containsKey(num))
 				map.put(num, new Pair(idx++, 1));
 			else
-				map.put(num, new Pair(map.get(num).first, map.get(num).second + 1)); // ?œ„ì¹? ê·¸ë??ë¡?, ?šŸ?ˆ˜ ì¦ê??
+				map.put(num, new Pair(map.get(num).first, map.get(num).second + 1)); // À§Ä¡ ±×´ë·Î, È½¼ö Áõ°¡
 		}
 
 		List<Entry<String, Pair>> list = new ArrayList<>(map.entrySet());
 
-		// ? •? ¬
+		// Á¤·Ä
 		Collections.sort(list, new Comparator<Entry<String, Pair>>() {
 			@Override
 			public int compare(Entry<String, Pair> o1, Entry<String, Pair> o2) {
