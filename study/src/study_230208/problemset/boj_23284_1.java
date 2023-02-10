@@ -36,8 +36,9 @@ public class boj_23284_1 {
 		}
 
 		// 값 복사
-		List<Integer> copyList = new ArrayList<>(list);
+		@SuppressWarnings("unchecked")
 		Stack<Integer> copyStack = (Stack<Integer>) stack.clone();
+		List<Integer> copyList = new ArrayList<>(list);
 
 		// 스택에서 값을 빼는 경우, 정답 리스트에 저장
 		if (!stack.empty()) {
