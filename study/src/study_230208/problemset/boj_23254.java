@@ -8,64 +8,67 @@ import java.util.StringTokenizer;
 
 public class boj_23254 {
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer stk = new StringTokenizer(br.readLine());
-        StringBuilder sb = new StringBuilder();
-        PriorityQueue<Pair> pq = new PriorityQueue<>(); // Pair(Á¡¼ö, ½Ã°£ º° Áõ°¡ Á¡¼ö)
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer stk = new StringTokenizer(br.readLine());
+		StringBuilder sb = new StringBuilder();
+		PriorityQueue<Pair> pq = new PriorityQueue<>(); // Pair(ì ìˆ˜, ì‹œê°„ ë³„ ì¦ê°€ ì ìˆ˜)
 
-        int n = Integer.parseInt(stk.nextToken()) * 24; // ½Ã°£
-        int m = Integer.parseInt(stk.nextToken()); // °ú¸ñ °³¼ö
-        int sum = 0; // Á¤´ä
+		int n = Integer.parseInt(stk.nextToken()) * 24; // ì‹œê°„
+		int m = Integer.parseInt(stk.nextToken()); // ê³¼ëª© ê°œìˆ˜
+		int sum = 0; // ì •ë‹µ
 
-        int[] scores = new int[m]; // Á¡¼ö ¹è¿­
+		int[] scores = new int[m]; // ì ìˆ˜ ë°°ì—´
 
-        stk = new StringTokenizer(br.readLine());
-        for (int i = 0; i < m; i++)
-            scores[i] = Integer.parseInt(stk.nextToken());
+		// ì ìˆ˜ ì €ì¥
+		stk = new StringTokenizer(br.readLine());
+		for (int i = 0; i < m; i++)
+			scores[i] = Integer.parseInt(stk.nextToken());
 
-        stk = new StringTokenizer(br.readLine());
-        for (int i = 0; i < m; i++)
-            pq.add(new Pair(scores[i], Integer.parseInt(stk.nextToken())));
+		// ì ìˆ˜, ì‹œê°„ ë³„ ì ìˆ˜ ì €ì¥
+		stk = new StringTokenizer(br.readLine());
+		for (int i = 0; i < m; i++)
+			pq.add(new Pair(scores[i], Integer.parseInt(stk.nextToken())));
 
-        // °¢ ½Ã°£ º°·Î Ã¼Å©
-        for (int i = 0; i < n; i++) {
-            // ¸Ç ¾ÕÀÇ °ªÀÌ 100ÀÌ¸é ÀüÃ¼ÀÇ °ªÀÌ 100ÀÌ¹Ç·Î ´õ ÀÌ»ó °è»êÇÒ ÇÊ¿ä ¾øÀ½
-            if (pq.peek().first == 100)
-                break;
+		// ê° ì‹œê°„ ë³„ë¡œ ì²´í¬
+		for (int i = 0; i < n; i++) {
+			// ë§¨ ì•ì˜ ê°’ì´ 100ì´ë©´ ì „ì²´ì˜ ê°’ì´ 100ì´ë¯€ë¡œ ë” ì´ìƒ ê³„ì‚°í•  í•„ìš” ì—†ìŒ
+			if (pq.peek().first == 100)
+				break;
 
-            // score °è»ê
-            // ¿øÁ¡¼ö + min(100-¿øÁ¡¼ö, Á¡¼ö Áõ°¡ °ª)
-            int scoreUp = pq.peek().second; // ½Ã°£ º° Á¡¼ö Áõ°¡
-            int score = pq.peek().first + Math.min(100 - pq.peek().first, scoreUp);
-            pq.poll();
-            pq.add(new Pair(score, scoreUp));
-        }
+			// score ê³„ì‚°
+			// ì›ì ìˆ˜ + min(100-ì›ì ìˆ˜, ì ìˆ˜ ì¦ê°€ ê°’)
+			int scoreUp = pq.peek().second; // ì‹œê°„ ë³„ ì ìˆ˜ ì¦ê°€
+			int score = pq.peek().first + Math.min(100 - pq.peek().first, scoreUp);
+			pq.poll();
+			pq.add(new Pair(score, scoreUp));
+		}
 
-        while (!pq.isEmpty()) {
-            sum += pq.peek().first;
-            pq.poll();
-        }
+		// sumì— í•© ì €ì¥
+		while (!pq.isEmpty()) {
+			sum += pq.peek().first;
+			pq.poll();
+		}
 
-        sb.append(sum);
-        System.out.println(sb);
-    }
+		sb.append(sum);
+		System.out.println(sb);
+	}
 
-    public static class Pair implements Comparable<Pair> {
-        int first;
-        int second;
+	public static class Pair implements Comparable<Pair> {
+		int first;
+		int second;
 
-        Pair(int first, int second) {
-            this.first = first;
-            this.second = second;
-        }
+		Pair(int first, int second) {
+			this.first = first;
+			this.second = second;
+		}
 
-        // Á¡¼ö¸¦ Áõ°¡ÇÒ ¼ö ÀÖ´Â °ªÀÌ Å« ¼øÀ¸·Î Á¤·Ä
-        @Override
-        public int compareTo(Pair a) {
-            // 1 ±³È¯ / -1 ±³È¯ X
-            return Math.min(100 - this.first, this.second) < Math.min(100 - a.first, a.second) ? 1 : -1;
-        }
-    }
+		// ì ìˆ˜ë¥¼ ì¦ê°€í•  ìˆ˜ ìˆëŠ” ê°’ì´ í° ìˆœìœ¼ë¡œ ì •ë ¬
+		@Override
+		public int compareTo(Pair a) {
+			// min(ì›ì ìˆ˜, ì‹œê°„ ë³„ ì ìˆ˜ ì¦ê°€ ê°’)
+			return Math.min(100 - this.first, this.second) < Math.min(100 - a.first, a.second) ? 1 : -1;
+		}
+	}
 
 }
