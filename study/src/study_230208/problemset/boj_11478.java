@@ -15,12 +15,14 @@ public class boj_11478 {
 
 		String str = br.readLine();
 
+		// 부분 문자열 잘라서 set에 저장 (중복 제거)
 		for (int i = 0; i < str.length(); i++) {
 			for (int j = 0; j < str.length() - i; j++) {
 				set.add(str.substring(j, j + i + 1));
 			}
 		}
 		
+		// set의 크기가 부분 문자열 개수
 		sb.append(set.size());
 		System.out.println(sb);
 	}
