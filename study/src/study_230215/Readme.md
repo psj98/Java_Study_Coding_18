@@ -9,23 +9,30 @@
 <br/>
 
 ## ✅ 백준
-순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
-:---: | :---: | :---: | :---: | :---: 
-01 | 23284 | [모든 스택 수열](https://www.acmicpc.net/problem/23284) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_23284_2.java)
-02 | 14627 | [파닭파닭](https://www.acmicpc.net/problem/14627) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_14627.java)
-03 | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_2447_1.java)
-04 | 2580 | [스도쿠](https://www.acmicpc.net/problem/2580) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_2580_2.java)
-05 | 23254 | [나는 기말고사형 인간이야](https://www.acmicpc.net/problem/23254) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_23254.java)
-06 | 23309 | [철도 공사](https://www.acmicpc.net/problem/23309) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-07 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-08 | 11478 | [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478) | <img src="https://static.solved.ac/tier_small/8.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_11478.java)
-09 | 2910 | [빈도 정렬](https://www.acmicpc.net/problem/2910) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230208/problemset/boj_2910_1.java)
 
- 
 <br/>
 
-## ✅ 코드 트리
+### ❗❗ 필수 문제
+
+<br/>
+
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 |  | [산타의 선물 공장](https://www.codetree.ai/training-field/frequent-problems/santa-gift-factory/description?page=3&pageSize=20&username=park98sj) | ``P4`` | []()
+01 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | []()
+02 | 1240 | [노드 사이의 거리](https://www.acmicpc.net/problem/1240) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+03 | 27211 | [도넛 행성](https://www.acmicpc.net/problem/27211) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230215/problemset/boj_27211.java)
+04 | 1062 | [가르침](https://www.acmicpc.net/problem/1062) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+05 | 16120 | [PPAP](https://www.acmicpc.net/problem/16120) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+06 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 
+
+<br/>
+
+### ❗❗ 선택 문제
+
+<br/>
+
+순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
+:---: | :---: | :---: | :---: | :---: 
+01 | 5397 | [키로거](https://www.acmicpc.net/problem/5397) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | []()
+02 | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
