@@ -1,10 +1,12 @@
-# ???
+# 자료구조(LinkedList, Tree), BFS / DFS, 비트마스킹, 그리디
 
 <br/>
 
 📌 Java 자료구조를 익히고 복습하는 차원의 문제로 선정하였습니다.
 
 📌 속도 측면에서 System.in, System.out 대신 BufferedReader, BufferedWriter, StringBuilder를 사용하기로 정했습니다.
+
+📌 필수 5문제, 선택 5문제를 정하고 필수 문제를 최대한 풀어오는 방식으로 변경하였습니다.
 
 <br/>
 
