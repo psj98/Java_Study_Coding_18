@@ -12,7 +12,7 @@
 :---: | :---: | :---:
 2023-02-01 | 자료구조 (Stack, Queue, Priority Queue, Tree, Deque, Map) | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230201)
 2023-02-08 | 자료구조 (Stack, Queue, Linked-List), Binary Search, 재귀, 백트래킹, 조합, 정렬 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230208)
-2023-02-15 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230215)
+2023-02-15 | 자료구조(LinkedList, Tree), BFS / DFS, 비트마스킹, 그리디 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230215)
 
 <br/>
 
@@ -39,7 +39,7 @@
 
 ## ✅ 규칙
 
-✔ 매주 수요일 오후 10시 디스코드를 통해 문제 풀이 공유 및 문제 선정
+✔ 매주 수요일 오후 10시 웹엑스를 통해 문제 풀이 공유 및 문제 선정
 
 ✔ 문제 난이도 및 선정
 
@@ -65,6 +65,7 @@
 ✔ 문제, 일지, 문제 풀이 현황 공유
 - [문제 및 알고리즘 스터디 일지](https://enormous-maraca-354.notion.site/0861ff4590644458aabb399c5d35ffb0)
 - [문제 풀이 현황](https://enormous-maraca-354.notion.site/cf7010aec21c4e68b7c28025ac6fce65)
+- [문제 공유](https://enormous-maraca-354.notion.site/083507c2b97848ebb739df26797f16e0)
   
 <br/>
 <br/>
