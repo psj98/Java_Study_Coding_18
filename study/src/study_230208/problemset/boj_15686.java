@@ -7,9 +7,9 @@ import java.util.ArrayList;
 import java.util.StringTokenizer;
 
 public class boj_15686 {
-	static ArrayList<int[]> house = new ArrayList<>();
-	static ArrayList<int[]> chicken = new ArrayList<>();
-	static int[] idx;
+	static ArrayList<int[]> house = new ArrayList<>(); // 집 좌표
+	static ArrayList<int[]> chicken = new ArrayList<>(); // 치킨 집 좌표
+	static int[] idx; // 치킨 집 index 저장
 	static int n, m, ans = Integer.MAX_VALUE;
 
 	public static void main(String[] args) throws IOException {
@@ -33,25 +33,28 @@ public class boj_15686 {
 			}
 		}
 
-		find(0, 0);
+		find(0, 0); // 치킨 거리 찾기
 
 		sb.append(ans);
 		System.out.println(sb);
 	}
 
 	public static void find(int cnt, int chickenIdx) {
+		// 치킨 집 개수가 m이면 치킨 거리 계산 및 최솟값으로 갱신
 		if (cnt == m) {
 			// 계산해서 value에 저장
 			ans = Math.min(ans, calDistance(cnt));
 			return;
 		}
 
+		// 백트래킹
 		for (int i = chickenIdx; i < chicken.size(); i++) {
 			idx[cnt] = i;
 			find(cnt + 1, i + 1);
 		}
 	}
 
+	// 집 기준으로 각 치킨 집 까지의 거리 계산 (최솟값 저장)
 	public static int calDistance(int cnt) {
 		int sum = 0;
 
