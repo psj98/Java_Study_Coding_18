@@ -1,4 +1,4 @@
-package practice.baekjoon;
+package study_230208.problemset;
 
 import java.io.BufferedReader;
 import java.io.IOException;
