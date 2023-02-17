@@ -46,24 +46,20 @@
 ✔ 문제 난이도 및 선정
 
 - 백준 (BOJ)
-  ```
   - 난이도 : 실버 2 ~ 골드 3
   - [백준 사이트](https://www.acmicpc.net)
   - 백준 사이트 그룹[https://www.acmicpc.net/group/16736] 에서 문제집 생성 후, 문제 공유
-  ``` 
   
 - SW Expert Academy
-  ```
   - 난이도 D2 ~ D4를 기준
   - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
-  ```
   
 - Code Tree
-  ```
   - 난이도 미정
   - [Code Tree](https://www.codetree.ai/landing)
-  ```
   
+<br/>
+
 ✔ 문제, 일지, 문제 풀이 현황 공유
 - [문제 및 알고리즘 스터디 일지](https://enormous-maraca-354.notion.site/0861ff4590644458aabb399c5d35ffb0)
 - [문제 풀이 현황](https://enormous-maraca-354.notion.site/cf7010aec21c4e68b7c28025ac6fce65)
