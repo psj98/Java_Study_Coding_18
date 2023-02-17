@@ -19,8 +19,8 @@
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
 01 | 1062 | [가르침](https://www.acmicpc.net/problem/1062) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230215/problemset/boj_1062_2.java)
-02 | 16120 | [PPAP](https://www.acmicpc.net/problem/16120) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-03 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+02 | 16120 | [PPAP](https://www.acmicpc.net/problem/16120) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230215/problemset/boj_16120.java)
+03 | 1202 | [보석 도둑](https://www.acmicpc.net/problem/1202) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230215/problemset/boj_1202.java)
 04 | 1240 | [노드 사이의 거리](https://www.acmicpc.net/problem/1240) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
 05 | 27211 | [도넛 행성](https://www.acmicpc.net/problem/27211) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230215/problemset/boj_27211.java)
 06 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | []()
