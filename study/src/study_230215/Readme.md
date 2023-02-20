@@ -34,7 +34,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 5397 | [키로거](https://www.acmicpc.net/problem/5397) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | []()
+01 | 5397 | [키로거](https://www.acmicpc.net/problem/5397) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230215/problemset/boj_5397.java)
 02 | 2573 | [빙산](https://www.acmicpc.net/problem/2573) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
 03 | 15900 | [나무 탈출](https://www.acmicpc.net/problem/15900) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | []()
 04 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
