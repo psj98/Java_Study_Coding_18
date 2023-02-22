@@ -15,7 +15,7 @@
 2023-02-01 | 자료구조 (Stack, Queue, Priority Queue, Tree, Deque, Map) | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230201)
 2023-02-08 | 자료구조 (Stack, Queue, Linked-List), Binary Search, 재귀, 백트래킹, 조합, 정렬 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230208)
 2023-02-15 | 자료구조(LinkedList, Tree), BFS / DFS, 비트마스킹, 그리디 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230215)
-2023-02-22 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230222)
+2023-02-22 | 백트래킹, 분할정복, BFS / DFS | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230222)
 
 <br/>
 
@@ -47,11 +47,11 @@
 📌 문제 난이도 및 선정
 
 - [백준 (BOJ)](https://www.acmicpc.net)
-  - 난이도 : 실버 2 ~ 골드 2
+  - 난이도 : 골드 5 ~ 골드 2
   - [백준 사이트 그룹](https://www.acmicpc.net/group/16736) 에서 문제집 생성 후, 문제 공유
   
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
-  - 난이도 : D2 ~ D4
+  - 난이도 : D2 ~ D5
   
 - [Code Tree](https://www.codetree.ai/landing)
   - 난이도 : 기출 문제
