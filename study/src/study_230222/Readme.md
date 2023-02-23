@@ -25,7 +25,7 @@
 03 | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
 04 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
 05 | 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
-06 | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+06 | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_2636.java)
 
 
 <br/>
