@@ -20,10 +20,10 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
-02 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-04 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+01 | 1167 | [트리의 지름](https://www.acmicpc.net/problem/1167) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_1167.java)
+02 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_16236.java)
+03 | 14502 | [연구소](https://www.acmicpc.net/problem/14502) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_14502.java)
+04 | 1520 | [내리막 길](https://www.acmicpc.net/problem/1520) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_1520.java)
 05 | 12100 | [2048(Easy)](https://www.acmicpc.net/problem/12100) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 06 | 2636 | [치즈](https://www.acmicpc.net/problem/2636) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_2636.java)
 
@@ -36,7 +36,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2667 | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | []()
+01 | 2667 | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_2667.java)
 02 | 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 
 <br/>
