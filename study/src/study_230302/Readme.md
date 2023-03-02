@@ -1,4 +1,4 @@
-# 백트래킹, 분할정복, BFS / DFS
+# Union-Find, Dijkstra, MST, 시뮬레이션, 그래프, 탐색
 
 <br/>
 
@@ -22,8 +22,8 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 4195 | [친구 네트워크](https://www.acmicpc.net/problem/4195) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 02 | 1719 | [택배](https://www.acmicpc.net/problem/1719) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 1238 | [파티](https://www.acmicpc.net/problem/1238) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | []()
+03 | 2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | []()
+04 | 1238 | [파티](https://www.acmicpc.net/problem/1238) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_1238.java)
 05 | 20056 | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
 
 

@@ -1,4 +1,4 @@
-package study_230302;
+package study_230302.problemset;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
