@@ -13,8 +13,6 @@ public class boj_14502 {
     static int n, m, ans = Integer.MIN_VALUE;
     static int[][] map;
     static int[] posIdx = new int[3];
-    static int[] dx = { 1, -1, 0, 0 };
-    static int[] dy = { 0, 0, 1, -1 };
     static ArrayList<int[]> virus = new ArrayList<>();
 
     public static void main(String[] args) throws IOException {
@@ -58,9 +56,8 @@ public class boj_14502 {
             }
 
             // 바이러스 퍼뜨리기
-            boolean[][] visited = new boolean[n][m]; // 방문 체크 배열
             for (int i = 0; i < virus.size(); i++)
-                bfs(virus.get(i)[0], virus.get(i)[1], copyMap, visited);
+                bfs(virus.get(i)[0], virus.get(i)[1], copyMap);
 
             ans = Math.max(ans, cntzero(copyMap)); // 안전 영역 개수 최댓값 갱신
 
@@ -78,8 +75,12 @@ public class boj_14502 {
     }
 
     // bfs 탐색 (바이러스 퍼뜨리기)
-    static void bfs(int x, int y, int[][] copyMap, boolean[][] visited) {
+    static void bfs(int x, int y, int[][] copyMap) {
+        int[] dx = { 1, -1, 0, 0 };
+        int[] dy = { 0, 0, 1, -1 };
+        boolean[][] visited = new boolean[n][m]; // 방문 체크 배열
         Queue<int[]> queue = new LinkedList<>();
+
         queue.add(new int[] { x, y });
         visited[x][y] = true; // 방문 체크
 

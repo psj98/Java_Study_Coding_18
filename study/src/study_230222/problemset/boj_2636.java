@@ -86,7 +86,7 @@ public class boj_2636 {
         int sum = 0;
         for (int i = 0; i < n; i++)
             for (int j = 0; j < m; j++)
-                if (map[i][j] == 1)
+                if (cntMap[i][j] == 1)
                     sum++;
 
         return sum;

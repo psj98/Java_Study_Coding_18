@@ -37,7 +37,7 @@
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
 01 | 2667 | [단지 번호 붙이기](https://www.acmicpc.net/problem/2667) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_2667.java)
-02 | 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+02 | 17136 | [색종이 붙이기](https://www.acmicpc.net/problem/17136) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_17136.java)
 03 | 14865 | [곡선 자르기](https://www.acmicpc.net/problem/14865) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_14865.java)
 04 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230222/problemset/boj_7576.java)
 
