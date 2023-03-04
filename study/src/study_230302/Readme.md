@@ -24,7 +24,7 @@
 02 | 1719 | [택배](https://www.acmicpc.net/problem/1719) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_1719.java)
 03 | 2887 | [행성 터널](https://www.acmicpc.net/problem/2887) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | []()
 04 | 1238 | [파티](https://www.acmicpc.net/problem/1238) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_1238.java)
-05 | 20056 | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+05 | 20056 | [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_20056.java)
 
 
 <br/>
@@ -38,6 +38,7 @@
 01 | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
 02 | 17472 | [다리 만들기2](https://www.acmicpc.net/problem/17472) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
 03 | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+04 | 2638 | [치즈](https://www.acmicpc.net/problem/2638) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_2638.java)
 
 <br/>
 
