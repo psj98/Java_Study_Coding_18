@@ -36,7 +36,7 @@ public class boj_1194 {
 
         // 초기화
         map = new char[n][m];
-        visited = new boolean[n][m][64];
+        visited = new boolean[n][m][64]; // a ~ f -> 0 ~ 63
 
         int x = 0, y = 0;
         for (int i = 0; i < n; i++) {
@@ -51,8 +51,9 @@ public class boj_1194 {
             }
         }
 
-        bfs(x, y);
+        bfs(x, y); // 시작 위치에서 bfs 탐색
 
+        // 정답 출력
         if (ans == Integer.MAX_VALUE)
             sb.append(-1);
         else
@@ -60,15 +61,17 @@ public class boj_1194 {
         System.out.println(sb);
     }
 
+    // bfs 탐색
     static void bfs(int x, int y) {
         Queue<Node> queue = new ArrayDeque<>();
-        queue.add(new Node(x, y, 0, 0));
+        queue.add(new Node(x, y, 0, 0)); // 시작 정점 저장
 
-        visited[x][y][0] = true;
+        visited[x][y][0] = true; // 시작 정점 방문 체크
 
         while (!queue.isEmpty()) {
-            Node cur = queue.poll();
+            Node cur = queue.poll(); // 현재 정점
 
+            // 1이면 탐색 종료 및 최소 이동 거리 갱신
             if (map[cur.x][cur.y] == '1') {
                 ans = cur.move;
                 return;
@@ -79,19 +82,19 @@ public class boj_1194 {
                 int ny = cur.y + dy[i];
 
                 if (nx >= 0 && nx < n && ny >= 0 && ny < m) {
-                    if (visited[nx][ny][cur.bit])
+                    if (visited[nx][ny][cur.bit]) // 현재 좌표, 비트에 방문했으면 continue
                         continue;
 
-                    char c = map[nx][ny];
-                    if (map[nx][ny] >= 'a' && map[nx][ny] <= 'f') {
-                        visited[nx][ny][cur.bit | (1 << (c - 'a'))] = true;
+                    char c = map[nx][ny]; // 현재 좌표 값
+                    if (map[nx][ny] >= 'a' && map[nx][ny] <= 'f') { // 열쇠
+                        visited[nx][ny][cur.bit | (1 << (c - 'a'))] = true; // 열쇠 획득 -> 비트 마스킹 갱신
                         queue.add(new Node(nx, ny, cur.move + 1, cur.bit | (1 << (c - 'a'))));
-                    } else if (map[nx][ny] >= 'A' && map[nx][ny] <= 'F') {
-                        if ((cur.bit & (1 << (c - 'A'))) != 0) {
-                            visited[nx][ny][cur.bit] = true;
+                    } else if (map[nx][ny] >= 'A' && map[nx][ny] <= 'F') { // 문
+                        if ((cur.bit & (1 << (c - 'A'))) != 0) { // 열쇠가 있으면
+                            visited[nx][ny][cur.bit] = true; // 해당 정점 true
                             queue.add(new Node(nx, ny, cur.move + 1, cur.bit));
                         }
-                    } else if (map[nx][ny] == '.' || map[nx][ny] == '1') {
+                    } else if (map[nx][ny] == '.' || map[nx][ny] == '1') { // 빈 공간 or 1 이면 해당 정점으로 이동
                         visited[nx][ny][cur.bit] = true;
                         queue.add(new Node(nx, ny, cur.move + 1, cur.bit));
                     }
