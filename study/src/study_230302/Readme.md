@@ -37,7 +37,7 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 1005 | [ACM Craft](https://www.acmicpc.net/problem/1005) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_1005.java)
 02 | 17472 | [다리 만들기2](https://www.acmicpc.net/problem/17472) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
-03 | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+03 | 1194 | [달이 차오른다, 가자](https://www.acmicpc.net/problem/1194) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_1194.java)
 04 | 2638 | [치즈](https://www.acmicpc.net/problem/2638) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_2638.java)
 05 | 18310 | [안테나](https://www.acmicpc.net/problem/18310) | <img src="https://static.solved.ac/tier_small/8.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_18310.java)
 06 | 14400 | [편의점2](https://www.acmicpc.net/problem/14400) | <img src="https://static.solved.ac/tier_small/9.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230302/problemset/boj_14400.java)
