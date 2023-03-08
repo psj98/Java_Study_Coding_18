@@ -56,7 +56,7 @@
 📌 문제 난이도 및 선정
 
 - [백준 (BOJ)](https://www.acmicpc.net)
-  - 난이도 : 골드 5 ~ 플레 4
+  - 난이도 : 골드 5 ~ 플레 5
   - [백준 사이트 그룹](https://www.acmicpc.net/group/16736) 에서 문제집 생성 후, 문제 공유
   
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
