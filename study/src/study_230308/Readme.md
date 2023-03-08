@@ -20,7 +20,11 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 4195 | [](https://www.acmicpc.net/problem/4195) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+01 | 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+02 | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+03 | 20057 | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_20057.java)
+04 | 2565 | [전깃줄](https://www.acmicpc.net/problem/2565) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+05 | 1019 | [책 페이지](https://www.acmicpc.net/problem/1019) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
 
 <br/>
 
@@ -30,7 +34,9 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1005 | [](https://www.acmicpc.net/problem/1005) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+01 | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+02 | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+03 | 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 
 <br/>
 
@@ -42,4 +48,4 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | ?? | [??]() | ``D4`` | []()
+01 | 4530 | [극한의 청소 작업](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWO6cgzKOIEDFAWw&) | ``D4`` | []()
