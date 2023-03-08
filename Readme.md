@@ -24,6 +24,7 @@
 날짜 | 주제 | 문제
 :---: | :---: | :---:
 2023-03-02 | Union-Find, Dijkstra, MST, 시뮬레이션, 그래프, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230302)
+2023-03-08 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230308)
 
 <br/>
 
@@ -55,7 +56,7 @@
 📌 문제 난이도 및 선정
 
 - [백준 (BOJ)](https://www.acmicpc.net)
-  - 난이도 : 골드 5 ~ 골드 1
+  - 난이도 : 골드 5 ~ 플레 4
   - [백준 사이트 그룹](https://www.acmicpc.net/group/16736) 에서 문제집 생성 후, 문제 공유
   
 - [SW Expert Academy](https://swexpertacademy.com/main/main.do)
