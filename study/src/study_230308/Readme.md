@@ -20,12 +20,12 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+01 | 2533 | [사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_2533.java)
 02 | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_2812_1.java)
 03 | 2812 | [크게 만들기](https://www.acmicpc.net/problem/2812) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [다른 풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_2812_2.java)
 04 | 20057 | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_20057.java)
 05 | 2565 | [전깃줄](https://www.acmicpc.net/problem/2565) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_2565.java)
-06 | 1019 | [책 페이지](https://www.acmicpc.net/problem/1019) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+06 | 1019 | [책 페이지](https://www.acmicpc.net/problem/1019) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_1019.java)
 
 <br/>
 
@@ -40,6 +40,7 @@
 03 | 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 04 | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_15681.java)
 05 | 1949 | [우수 마을](https://www.acmicpc.net/problem/1949) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_1949.java)
+06 | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_16987.java)
 
 <br/>
 
