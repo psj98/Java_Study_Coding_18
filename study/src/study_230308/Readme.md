@@ -8,7 +8,7 @@
 
 📌 필수 5문제, 선택 5문제를 정하고 필수 문제를 최대한 풀어오는 방식으로 진행하였습니다.
 
-📌 난이도 : 골드 5 ~ 플레 4 (백준)
+📌 난이도 : 골드 5 ~ 골드 1 (백준)
 
 <br/>
 
@@ -40,7 +40,6 @@
 03 | 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 04 | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_15681.java)
 05 | 1949 | [우수 마을](https://www.acmicpc.net/problem/1949) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_1949.java)
-06 | 16987 | [계란으로 계란치기](https://www.acmicpc.net/problem/16987) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_16987.java)
 
 <br/>
 
