@@ -35,7 +35,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+01 | 1562 | [계단 수](https://www.acmicpc.net/problem/1562) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_1562.java)
 02 | 1700 | [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
 03 | 1300 | [K번째 수](https://www.acmicpc.net/problem/1300) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 04 | 15681 | [트리와 쿼리](https://www.acmicpc.net/problem/15681) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230308/problemset/boj_15681.java)
