@@ -35,3 +35,5 @@
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
 01 | 1162 | [도로포장](https://www.acmicpc.net/problem/1162) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+02 | 14002 | [가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230315/problemset/boj_14002.java)
+03 | 3474 | [교수가 된 현우](https://www.acmicpc.net/problem/3474) | <img src="https://static.solved.ac/tier_small/8.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230315/problemset/boj_3474.java)
