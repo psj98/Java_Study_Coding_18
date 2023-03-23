@@ -20,11 +20,11 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 2458 | [키 순서](https://www.acmicpc.net/problem/2458) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230322/problemset/boj_2458.java)
 02 | 21610 | [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230322/problemset/boj_21610.java)
 03 | 10217 | [KCM Travel](https://www.acmicpc.net/problem/10217) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | []()
-04 | 5904 | [Moo 게임](https://www.acmicpc.net/problem/5904) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-05 | 1405 | [미친 로봇](https://www.acmicpc.net/problem/1405) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+04 | 5904 | [Moo 게임](https://www.acmicpc.net/problem/5904) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230322/problemset/boj_5904.java)
+05 | 1405 | [미친 로봇](https://www.acmicpc.net/problem/1405) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230322/problemset/boj_1405.java)
 
 <br/>
 
