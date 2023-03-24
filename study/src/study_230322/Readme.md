@@ -34,4 +34,4 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+01 | 16920 | [확장 게임](https://www.acmicpc.net/problem/16920) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230322/problemset/boj_16920.java)
