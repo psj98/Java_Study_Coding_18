@@ -39,3 +39,4 @@
 03 | 13711 | [LCS 4](https://www.acmicpc.net/problem/13711) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_13711.java)
 04 | 15482 | [한글 LCS](https://www.acmicpc.net/problem/15482) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_15482.java)
 05 | 14003 | [가장 긴 증가하는 부분 수열 5](https://www.acmicpc.net/problem/14003) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_14003.java)
+06 | 2550 | [전구](https://www.acmicpc.net/problem/2550) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_2550.java)
