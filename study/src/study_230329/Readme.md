@@ -22,7 +22,7 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_21611.java)
 02 | 9252 | [LCS 2](https://www.acmicpc.net/problem/9252) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_9252.java)
-03 | 2098 | [외판원 순회](https://www.acmicpc.net/problem/2098) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+03 | 2098 | [외판원 순회](https://www.acmicpc.net/problem/2098) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_2098.java)
 04 | 2352 | [반도체 설계](https://www.acmicpc.net/problem/2352) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_2352.java)
 05 | 1655 | [가운데를 말해요](https://www.acmicpc.net/problem/1655) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230329/problemset/boj_1655.java)
 
