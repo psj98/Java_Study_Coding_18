@@ -3,7 +3,7 @@
 
 #### 📌 소속 : SSAFY 9기 서울 18반
 
-#### 📌 팀원 : 권기윤, 권현우, 박성준, 송진현, 이채정
+#### 📌 팀원 : 권기윤, 권현우, 박성준, 이채정
 
 <br/>
 <br/>
@@ -28,6 +28,13 @@
 2023-03-15 | LIS(최장 증가 수열), DP, Two-Pointer | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230315)
 2023-03-22 | 그래프, 백트래킹, 분할정복 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230322)
 2023-03-29 | DP, LIS, PriorityQueue | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230329)
+
+<br/>
+
+### 📌 4월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2023-04-05 | 비트마스킹, DP, 자료구조, DFS | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230405)
 
 <br/>
 
