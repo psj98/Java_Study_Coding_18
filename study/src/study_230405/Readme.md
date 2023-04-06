@@ -2,11 +2,11 @@
 
 <br/>
 
-📌 Java 자료구조를 익히고 복습하는 차원의 문제로 선정하였습니다.
+📌 코딩테스트에 많이 나오는 유형이나 약한 알고리즘 유형을 문제로 선정
 
-📌 속도 측면에서 System.in, System.out 대신 BufferedReader, BufferedWriter, StringBuilder를 사용하기로 정했습니다.
+📌 속도 측면에서 System.in, System.out 대신 BufferedReader, BufferedWriter, StringBuilder 사용
 
-📌 필수 5문제, 선택 5문제를 정하고 필수 문제를 최대한 풀어오는 방식으로 진행하였습니다.
+📌 필수 5문제, 선택 문제는 풀어보고 싶은 문제를 추가한 후 필수 문제를 최대한 풀어오는 방식으로 진행
 
 📌 난이도 : 골드 5 ~ 플레 5 (백준)
 
