@@ -22,7 +22,7 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 1766 | [문제집](https://www.acmicpc.net/problem/1766) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 02 | 2357 | [최솟값과 최댓값](https://www.acmicpc.net/problem/2357) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_2357.java)
-03 | 2457 | [공주님의 정원](https://www.acmicpc.net/problem/2457) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> |[]()
-04 | 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+03 | 2457 | [공주님의 정원](https://www.acmicpc.net/problem/2457) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_2457.java)
+04 | 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_2662.java)
 05 | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_21608.java)
 
