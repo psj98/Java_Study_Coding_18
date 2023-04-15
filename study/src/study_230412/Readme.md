@@ -26,3 +26,12 @@
 04 | 2662 | [기업투자](https://www.acmicpc.net/problem/2662) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_2662.java)
 05 | 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_21608.java)
 
+<br/>
+
+### ❗❗ 선택 문제
+
+<br/>
+
+순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
+:---: | :---: | :---: | :---: | :---: 
+01 | 14438 | [수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_14438.java)
