@@ -34,4 +34,5 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 14438 | [수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_14438.java)
+01 | 14427 | [수열과 쿼리 15](https://www.acmicpc.net/problem/14427) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_14427.java)
+02 | 14438 | [수열과 쿼리 17](https://www.acmicpc.net/problem/14438) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230412/problemset/boj_14438.java)

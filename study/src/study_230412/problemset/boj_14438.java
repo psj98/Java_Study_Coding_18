@@ -26,8 +26,6 @@ public class boj_14438 {
         for (int i = size - 1; i > 0; i--)
             tree[i] = Math.min(tree[i * 2], tree[i * 2 + 1]);
 
-        System.out.println(Arrays.toString(tree));
-
         // 쿼리 시작
         int m = Integer.parseInt(br.readLine());
         for (int i = 0; i < m; i++) {
@@ -45,8 +43,6 @@ public class boj_14438 {
                     tree[a] = Math.min(tree[a * 2], tree[a * 2 + 1]);
                     a /= 2;
                 }
-
-                System.out.println(Arrays.toString(tree));
             } else if (op == 2) { // 최솟값 구하기
                 b += (size - 1);
 
