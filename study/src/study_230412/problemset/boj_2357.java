@@ -43,7 +43,7 @@ public class boj_2357 {
 
             /* 최솟값 찾기 */
             int result = Integer.MAX_VALUE;
-            while (left < right) {
+            while (left <= right) {
                 if (left % 2 == 1) // 노드 번호가 홀수인 경우, 오른쪽 위에 위치한 부모로 이동
                     result = Math.min(result, minTree[left]);
                 if (right % 2 == 0) // 노드 번호가 짝수인 경우, 왼쪽 위에 위치한 부모로 이동
@@ -54,10 +54,6 @@ public class boj_2357 {
                 right = (right - 1) / 2;
             }
 
-            // 마지막 위치가 같으면, result 갱신
-            if (left == right)
-                result = Math.min(result, minTree[left]);
-
             sb.append(result).append(" ");
 
             left = a;
@@ -65,7 +61,7 @@ public class boj_2357 {
 
             /* 최댓값 찾기 */
             result = 0;
-            while (left < right) {
+            while (left <= right) {
                 if (left % 2 == 1)
                     result = Math.max(result, maxTree[left]);
                 if (right % 2 == 0)
@@ -75,9 +71,6 @@ public class boj_2357 {
                 left = (left + 1) / 2;
                 right = (right - 1) / 2;
             }
-
-            if (left == right)
-                result = Math.max(result, maxTree[left]);
 
             sb.append(result).append("\n");
         }
