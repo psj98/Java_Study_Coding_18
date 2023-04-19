@@ -89,16 +89,6 @@ public class boj_14428 {
                     b = (b - 1) / 2;
                 }
 
-                // // 마지막에 같은 위치일 경우, 갱신
-                // if (a == b) {
-                //     if (num > tree[a].val) {
-                //         num = tree[a].val;
-                //         idx = tree[a].idx;
-                //     } else if (num == tree[a].val) {
-                //         idx = Math.min(idx, tree[a].idx);
-                //     }
-                // }
-
                 sb.append(idx).append("\n");
             }
         }
