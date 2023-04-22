@@ -24,7 +24,7 @@
 02 | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_11559.java)
 03 | 13904 | [과제](https://www.acmicpc.net/problem/13904) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
 04 | 14863 | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_14863.java)
-05 | 21609 | [상어 중학교](https://www.acmicpc.net/problem/21609) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+05 | 21609 | [상어 중학교](https://www.acmicpc.net/problem/21609) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_21609.java)
 
 <br/>
 
