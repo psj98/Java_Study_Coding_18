@@ -3,7 +3,7 @@ package study_230419.problemset;
 import java.io.*;
 import java.util.*;
 
-public class boj_2138 {
+public class boj_21609 {
     static int n, m, ans = 0;
     static int[][] map;
     static int[] dx = { 1, -1, 0, 0 };
