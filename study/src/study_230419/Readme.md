@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2138 | [전구와 스위치](https://www.acmicpc.net/problem/2138) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 2138 | [전구와 스위치](https://www.acmicpc.net/problem/2138) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_2138.java)
 02 | 11559 | [Puyo Puyo](https://www.acmicpc.net/problem/11559) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_11559.java)
 03 | 13904 | [과제](https://www.acmicpc.net/problem/13904) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
 04 | 14863 | [서울에서 경산까지](https://www.acmicpc.net/problem/14863) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_14863.java)
