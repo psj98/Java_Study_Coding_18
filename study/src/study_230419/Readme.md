@@ -34,5 +34,5 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 14939 | [불 끄기](https://www.acmicpc.net/problem/14939) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | []()
+01 | 14939 | [불 끄기](https://www.acmicpc.net/problem/14939) | <img src="https://static.solved.ac/tier_small/16.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230419/problemset/boj_14939.java)
 02 | 19582 | [200년간 폐관수련했더니 PS 최강자가 된 건에 대하여](https://www.acmicpc.net/problem/19582) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
