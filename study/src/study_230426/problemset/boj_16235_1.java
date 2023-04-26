@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class boj_16235_1 {
-    static int n, m;
+    static int n; // 맵 크기
     static ArrayList<Integer>[][] map; // 나무
     static int[][] food; // 현재 양분
     static int[][] addFood; // 겨울에 추가할 양분
@@ -18,7 +18,7 @@ public class boj_16235_1 {
         StringBuilder sb = new StringBuilder();
 
         n = Integer.parseInt(stk.nextToken());
-        m = Integer.parseInt(stk.nextToken());
+        int m = Integer.parseInt(stk.nextToken());
         int k = Integer.parseInt(stk.nextToken());
 
         // 초기화 및 양분 정보 입력

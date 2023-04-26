@@ -12,6 +12,7 @@ public class boj_16235_2 {
     static int[] dx = { 1, -1, 0, 0, 1, 1, -1, -1 };
     static int[] dy = { 0, 0, 1, -1, 1, -1, 1, -1 };
 
+    // 나무 클래스
     static class Tree implements Comparable<Tree> {
         int x, y, age;
 
