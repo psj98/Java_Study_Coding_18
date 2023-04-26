@@ -37,6 +37,7 @@
 2023-04-05 | 비트마스킹, DP, 자료구조, DFS | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230405)
 2023-04-12 | DP, 그리디, 세그먼트 트리, 위상 정렬 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230412)
 2023-04-19 | DP, 그리디, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230419)
+2023-04-26 | DP, 그리디, 백트래킹, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230426)
 
 <br/>
 
