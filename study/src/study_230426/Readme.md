@@ -24,8 +24,8 @@
 02 | 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
 03 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_16235_1.java)
 04 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [다른 풀이 (시간 초과)](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_16235_2.java)
-05 | 17825 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
-06 | 19236 | [청소년 상어](https://www.acmicpc.net/problem/19236) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+05 | 17825 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_17825.java)
+06 | 19236 | [청소년 상어](https://www.acmicpc.net/problem/19236) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_19236.java)
 
 <br/>
 
