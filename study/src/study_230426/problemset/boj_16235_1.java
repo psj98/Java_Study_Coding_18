@@ -42,6 +42,7 @@ public class boj_16235_1 {
             stk = new StringTokenizer(br.readLine());
             int x = Integer.parseInt(stk.nextToken()) - 1;
             int y = Integer.parseInt(stk.nextToken()) - 1;
+            
             map[x][y].add(Integer.parseInt(stk.nextToken()));
         }
 
