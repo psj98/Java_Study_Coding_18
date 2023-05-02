@@ -21,7 +21,7 @@
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
 01 | 1937 | [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_1937.java)
-02 | 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+02 | 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_9576.java)
 03 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_16235_1.java)
 04 | 16235 | [나무 재테크](https://www.acmicpc.net/problem/16235) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [다른 풀이 (시간 초과)](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_16235_2.java)
 05 | 17825 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230426/problemset/boj_17825.java)
