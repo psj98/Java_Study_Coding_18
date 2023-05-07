@@ -24,7 +24,7 @@
 02 | 17425 | [약수의 합](https://www.acmicpc.net/problem/17425) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230503/problemset/boj_17425.java)
 03 | 19237 | [어른 상어](https://www.acmicpc.net/problem/19237) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이 - 최악 시간](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230503/problemset/boj_19237_1.java)
 04 | 19237 | [어른 상어](https://www.acmicpc.net/problem/19237) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이 - 평균 시간](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230503/problemset/boj_19237_2.java)
-05 | 19535 | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+05 | 19535 | [ㄷㄷㄷㅈ](https://www.acmicpc.net/problem/19535) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230503/problemset/boj_19535.java)
 06 | 20500 | [Ezreal 여눈부터 가네 ㅈㅈ](https://www.acmicpc.net/problem/20500) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230503/problemset/boj_20500.java)
 
 
