@@ -22,6 +22,6 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 10800 | [컬러볼](https://www.acmicpc.net/problem/10800) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230510/problemset/boj_10800.java)
 02 | 12869 | [뮤탈리스크](https://www.acmicpc.net/problem/12869) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-03 | 15591 | [MooTube (Silver)](https://www.acmicpc.net/problem/15591) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+03 | 15591 | [MooTube (Silver)](https://www.acmicpc.net/problem/15591) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230510/problemset/boj_15591.java)
 04 | 18869 | [멀티버스 II](https://www.acmicpc.net/problem/18869) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [기존 풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230510/problemset/boj_18869_2.java)
 05 | 18869 | [멀티버스 II](https://www.acmicpc.net/problem/18869) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [라이브러리 많이 사용한 풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230510/problemset/boj_18869_1.java)
