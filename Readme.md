@@ -46,9 +46,9 @@
 :---: | :---: | :---:
 2023-05-03 | 정수론, DP, 트리, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230503)
 2023-05-10 | 누적합, 탐색, DP, 좌표 압축 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230510)
-2023-05-17 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230517)
-2023-05-24 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230524)
-2023-05-31 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230531)
+2023-05-17 | 프로젝트로 인한 휴식 | []()
+2023-05-24 | 프로젝트로 인한 휴식 | []()
+2023-05-31 | DP, 구현, 수학, 분할 정복, 다익스트라 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230531)
 
 
 ***
