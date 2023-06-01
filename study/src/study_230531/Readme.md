@@ -22,6 +22,6 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 1033 | [칵테일](https://www.acmicpc.net/problem/1033) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230531/problemset/boj_1033.java)
 02 | 2281 | [데스노트](https://www.acmicpc.net/problem/2281) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+03 | 10830 | [행렬 제곱](https://www.acmicpc.net/problem/10830) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230531/problemset/boj_10830.java)
 04 | 11779 | [최소비용 구하기 2](https://www.acmicpc.net/problem/11779) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230531/problemset/boj_11779.java)
-05 | 13459 | [구슬 탈출](https://www.acmicpc.net/problem/13459) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
+05 | 13459 | [구슬 탈출](https://www.acmicpc.net/problem/13459) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230531/problemset/boj_13459.java)
