@@ -50,6 +50,16 @@
 2023-05-24 | 프로젝트로 인한 휴식 | []()
 2023-05-31 | DP, 구현, 수학, 분할 정복, 다익스트라 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230531)
 
+<br/>
+
+### 📌 6월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2023-06-07 | DP, 브루트포스, 백트래킹, 그래프, 투 포인터 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230607)
+2023-06-14 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230614)
+2023-06-21 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230621)
+2023-06-28 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230628)
+
 
 ***
 <br/>
