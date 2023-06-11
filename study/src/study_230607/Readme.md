@@ -23,5 +23,5 @@
 01 | 1027 | [고층 건물](https://www.acmicpc.net/problem/1027) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230607/problemset/boj_1027.java)
 02 | 1915 | [가장 큰 정사각형](https://www.acmicpc.net/problem/1915) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230607/problemset/boj_1915.java)
 03 | 1976 | [여행 가자](https://www.acmicpc.net/problem/1976) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230607/problemset/boj_1976.java)
-04 | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+04 | 15684 | [사다리 조작](https://www.acmicpc.net/problem/15684) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230607/problemset/boj_15684.java)
 05 | 17609 | [회문](https://www.acmicpc.net/problem/17609) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230607/problemset/boj_17609.java)
