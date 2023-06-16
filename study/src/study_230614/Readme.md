@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+01 | 2169 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_2169.java)
 02 | 2602 | [돌다리 건너기](https://www.acmicpc.net/problem/2602) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_2602.java)
 03 - a | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_5052_1.java)
 03 - b | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_5052_2.java)
