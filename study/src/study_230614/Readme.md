@@ -26,4 +26,4 @@
 03 - b | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_5052_2.java)
 03 - c | 5052 | [전화번호 목록](https://www.acmicpc.net/problem/5052) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_5052_3.java)
 04 | 17182 | [우주 탐사선](https://www.acmicpc.net/problem/17182) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-05 | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+05 | 19238 | [스타트 택시](https://www.acmicpc.net/problem/19238) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230614/problemset/boj_19238.java)
