@@ -57,7 +57,7 @@
 :---: | :---: | :---:
 2023-06-07 | DP, 브루트포스, 백트래킹, 그래프, 투 포인터 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230607)
 2023-06-14 | DP, 구현, 백트래킹, Trie | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230614)
-2023-06-21 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230621)
+2023-06-21 | DP, 구현, 백트래킹, 브루트포스 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230621)
 2023-06-28 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230628)
 
 
