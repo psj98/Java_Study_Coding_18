@@ -24,4 +24,4 @@
 02 | 3190 | [뱀](https://www.acmicpc.net/problem/3190) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
 03 | 4811 | [알약](https://www.acmicpc.net/problem/4811) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230621/problemset/boj_4811.java)
 04 | 16986 | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-05 | 21315 | [카드 섞기](https://www.acmicpc.net/problem/21315) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+05 | 21315 | [카드 섞기](https://www.acmicpc.net/problem/21315) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230621/problemset/boj_21315.java)
