@@ -66,7 +66,7 @@
 날짜 | 주제 | 문제
 :---: | :---: | :---:
 2023-07-05 | Greedy, DP, 시뮬레이션, 백트래킹 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230705)
-2023-07-12 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230712)
+2023-07-12 | Greedy, DP, 구현, 비트마스킹 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230712)
 2023-07-19 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230719)
 2023-07-26 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230726)
 
