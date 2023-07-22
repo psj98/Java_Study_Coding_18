@@ -21,7 +21,7 @@
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
 01 | 2240 | [자두나무](https://www.acmicpc.net/problem/2240) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230719/problemset/boj_2240.java)
-02 | 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+02 | 2623 | [음악프로그램](https://www.acmicpc.net/problem/2623) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230719/problemset/boj_2623.java)
 03 | 3967 | [매직 스타](https://www.acmicpc.net/problem/3967) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230719/problemset/boj_3967.java)
 04 | 6497 | [전력난](https://www.acmicpc.net/problem/6497) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230719/problemset/boj_6497.java)
-05 | 22352 | [항체 인식](https://www.acmicpc.net/problem/22352) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+05 | 22352 | [항체 인식](https://www.acmicpc.net/problem/22352) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230719/problemset/boj_22352.java)
