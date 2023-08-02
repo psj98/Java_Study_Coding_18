@@ -70,6 +70,17 @@
 2023-07-19 | DP, 백트래킹, MST, 그래프 탐색, 위상 정렬 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230719)
 2023-07-26 | DP, 시뮬레이션, 구현, 탐색, 수학 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230726)
 
+<br/>
+
+### 📌 8월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2023-08-02 | 구현, 브루트포스, DP | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230802)
+2023-08-09 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230809)
+2023-08-16 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230816)
+2023-08-23 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230823)
+2023-08-30 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230830)
+
 
 ***
 <br/>
