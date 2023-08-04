@@ -22,4 +22,5 @@
 :---: | :---: | :---: | :---: | :---: 
 01 | 1986 | [체스](https://www.acmicpc.net/problem/1986) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230802/problemset/boj_1986.java)
 02 | 2615 | [오목](https://www.acmicpc.net/problem/2615) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230802/problemset/boj_2615.java)
-03 | 12785 | [토쟁이의 등굣길](https://www.acmicpc.net/problem/12785) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230802/problemset/boj_12785.java)
+03-1 | 12785 | [토쟁이의 등굣길](https://www.acmicpc.net/problem/12785) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230802/problemset/boj_12785_1.java)
+03-2 | 12785 | [토쟁이의 등굣길](https://www.acmicpc.net/problem/12785) | <img src="https://static.solved.ac/tier_small/10.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230802/problemset/boj_12785_2.java)
