@@ -21,6 +21,6 @@
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
 01 | 1863 | [스카이라인 쉬운거](https://www.acmicpc.net/problem/1863) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230823/problemset/boj_1863.java)
-02 | 1918 | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+02 | 1918 | [후위 표기식](https://www.acmicpc.net/problem/1918) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230823/problemset/boj_1918.java)
 03 | 2225 | [합분해](https://www.acmicpc.net/problem/2225) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
 04 | 8982 | [수족관 1](https://www.acmicpc.net/problem/8982) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
