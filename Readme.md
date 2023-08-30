@@ -79,7 +79,7 @@
 2023-08-09 | 프로젝트로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230809)
 2023-08-16 | 프로젝트로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230816)
 2023-08-23 | DP, 시뮬레이션, Stack | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230823)
-2023-08-30 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230830)
+2023-08-30 | DP, Stack, Dijkstra, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230830)
 
 
 ***
