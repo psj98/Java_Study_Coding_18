@@ -121,10 +121,9 @@
   
 <br/>
 
-📌 문제, 일지, 문제 풀이 현황 공유
-- [문제 및 알고리즘 스터디 일지](https://enormous-maraca-354.notion.site/0861ff4590644458aabb399c5d35ffb0)
-- [문제 풀이 현황](https://enormous-maraca-354.notion.site/cf7010aec21c4e68b7c28025ac6fce65)
-- [문제 공유](https://enormous-maraca-354.notion.site/083507c2b97848ebb739df26797f16e0)
+📌 스터디 일지 및 문제 공유
+- [문제 및 알고리즘 스터디 일지](https://even-quokka-dcd.notion.site/392a740e16874e6987ad105384717f40?pvs=4)
+- [문제 공유](https://even-quokka-dcd.notion.site/1ae78a8564614c6e97fe9660799e494e?pvs=4)
   
 <br/>
 <br/>
