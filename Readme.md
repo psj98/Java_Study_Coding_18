@@ -87,7 +87,7 @@
 날짜 | 주제 | 문제
 :---: | :---: | :---:
 2023-09-06 | DP, 탐색, 구현, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230906)
-2023-09-15 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230913)
+2023-09-15 | DP, 탐색, 위상 정렬, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230913)
 2023-09-22 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230920)
 2023-09-29 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230927)
 
