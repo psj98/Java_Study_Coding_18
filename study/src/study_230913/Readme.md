@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 2056 | [작업](https://www.acmicpc.net/problem/2056) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-03 | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-04 | 14226 | [이모티콘](https://www.acmicpc.net/problem/14226) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 1043 | [거짓말](https://www.acmicpc.net/problem/1043) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230913/problemset/boj_1043.java)
+02 | 2056 | [작업](https://www.acmicpc.net/problem/2056) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230913/problemset/boj_2056.java)
+03 | 2589 | [보물섬](https://www.acmicpc.net/problem/2589) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230913/problemset/boj_2589.java)
+04 | 14226 | [이모티콘](https://www.acmicpc.net/problem/14226) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_230913/problemset/boj_14226.java)
