@@ -1,3 +1,5 @@
+package study_230906.problemset;
+
 import java.io.*;
 import java.util.*;
 

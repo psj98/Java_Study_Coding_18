@@ -1,3 +1,5 @@
+package study_230823.problemset;
+
 import java.io.*;
 import java.util.*;
 
@@ -12,8 +14,8 @@ public class boj_1918 {
          * - 괄호가 나오면 계속 저장
          * - 닫는 괄호가 나오면 여는 괄호가 있는데까지 출력 => 괄호 제거
          * - 연산자 우선 순위 체크
-         *   - 괄호는 출력 X
-         *   - [+, -] < [*, /]
+         * - 괄호는 출력 X
+         * - [+, -] < [*, /]
          */
 
         String str = br.readLine();

@@ -1,3 +1,5 @@
+package study_230906.problemset;
+
 import java.io.*;
 import java.util.*;
 
@@ -14,7 +16,7 @@ public class boj_16234 {
         StringTokenizer stk = new StringTokenizer(br.readLine());
         StringBuilder sb = new StringBuilder();
 
-        N = Integer.parseInt(stk.nextToken()); // 행 
+        N = Integer.parseInt(stk.nextToken()); // 행
         L = Integer.parseInt(stk.nextToken()); // L 이상 조건
         R = Integer.parseInt(stk.nextToken()); // R 이하 조건
 
