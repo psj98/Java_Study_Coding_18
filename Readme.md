@@ -91,6 +91,14 @@
 2023-09-22 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230920)
 2023-09-29 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230927)
 
+<br/>
+
+### 📌 10월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2023-10-11 | 시뮬레이션, 백트래킹, Dijkstra, BFS | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231011)
+2023-10-18 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231018)
+2023-10-25 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231025)
 
 
 ***
