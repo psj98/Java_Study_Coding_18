@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1091 | [카드 섞기](https://www.acmicpc.net/problem/1091) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 2661 | [좋은 수열](https://www.acmicpc.net/problem/2661) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 1091 | [카드 섞기](https://www.acmicpc.net/problem/1091) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231011/problemset/boj_1091.java)
+02 | 2661 | [좋은 수열](https://www.acmicpc.net/problem/2661) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231011/problemset/boj_2661.java)
 03 | 5972 | [택배 배송](https://www.acmicpc.net/problem/5972) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231011/problemset/boj_5972.java)
 04 | 13549 | [숨바꼭질 3](https://www.acmicpc.net/problem/13549) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231011/problemset/boj_13549.java)
