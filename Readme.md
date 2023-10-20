@@ -88,16 +88,17 @@
 :---: | :---: | :---:
 2023-09-06 | DP, 탐색, 구현, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230906)
 2023-09-15 | DP, 탐색, 위상 정렬, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230913)
-2023-09-22 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230920)
-2023-09-29 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230927)
+2023-09-22 | 프로젝트 및 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230920)
+2023-09-29 | 프로젝트 및 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230927)
 
 <br/>
 
 ### 📌 10월
 날짜 | 주제 | 문제
 :---: | :---: | :---:
+2023-10-04 | 프로젝트 및 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231004)
 2023-10-11 | 시뮬레이션, 백트래킹, Dijkstra, BFS | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231011)
-2023-10-18 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231018)
+2023-10-18 | Stack/Queue, 해시, DP, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231018)
 2023-10-25 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231025)
 
 
