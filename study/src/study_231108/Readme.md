@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 12904 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | ```Lv3``` | []()
-02 | 12920 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | ```Lv3``` | []()
-03 | 64062 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | ```Lv3``` | []()
-04 | 67259 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | ```Lv3``` | []()
+01 | 12904 | [가장 긴 팰린드롬](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231108/problemset/programmers_12904.java)
+02 | 12920 | [선입 선출 스케줄링](https://school.programmers.co.kr/learn/courses/30/lessons/12920) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231108/problemset/programmers_12920.java)
+03 | 64062 | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231108/problemset/programmers_64062.java)
+04 | 67259 | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231108/problemset/programmers_67259.java)
