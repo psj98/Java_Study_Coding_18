@@ -109,8 +109,8 @@
 2023-11-01 | DP, 구현, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231101)
 2023-11-08 | 구현, 이분 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231108)
 2023-11-15 | 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231115)
-2023-11-22 | DP, 구현, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231122)
-2023-11-29 | DP, 구현, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231129)
+2023-11-22 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231122)
+2023-11-29 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231129)
 
 
 ***
