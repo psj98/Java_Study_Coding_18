@@ -1,3 +1,5 @@
+package study_231108.problemset;
+
 class Solution {
     public int solution(String s) {
         // 길이가 긴 것부터 체크
