@@ -1,3 +1,5 @@
+package study_231108.problemset;
+
 class Solution {
     public int solution(int n, int[] cores) {
         int answer = 0;
