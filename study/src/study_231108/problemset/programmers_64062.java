@@ -1,3 +1,5 @@
+package study_231108.problemset;
+
 class Solution {
     public int solution(int[] stones, int k) {
         int answer = 0; // 정답
