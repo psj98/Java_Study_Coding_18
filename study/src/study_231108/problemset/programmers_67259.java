@@ -1,3 +1,5 @@
+package study_231108.problemset;
+
 import java.util.*;
 
 class Solution {
