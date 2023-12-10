@@ -110,8 +110,17 @@
 2023-11-08 | 구현, 이분 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231108)
 2023-11-15 | 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231115)
 2023-11-22 | BFS / DFS, Union-Find | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231122)
-2023-11-29 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231129)
+2023-11-29 | 탐색, 그래프, Greedy | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231129)
 
+<br/>
+
+### 📌 12월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2023-12-06 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231206)
+2023-12-13 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231213)
+2023-12-20 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231220)
+2023-12-27 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231227)
 
 ***
 <br/>
