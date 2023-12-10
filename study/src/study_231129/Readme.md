@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 42884 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | ```Lv3``` | []()
-02 | 43164 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | ```Lv3``` | []()
-03 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | ```Lv3``` | []()
-04 | 152995 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | ```Lv3``` | []()
+01 | 42884 | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231129/problemset/programmers_42884.java)
+02 | 43164 | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231129/problemset/programmers_43164.java)
+03 | 49189 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231129/problemset/programmers_49189.java)
+04 | 152995 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | ```Lv3``` | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231129/problemset/programmers_152995.java)
