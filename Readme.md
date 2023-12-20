@@ -118,7 +118,7 @@
 날짜 | 주제 | 문제
 :---: | :---: | :---:
 2023-12-06 | 힙, 이분 탐색, Dijkstra | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231206)
-2023-12-13 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231213)
+2023-12-13 | DP, 이분 탐색, Dijkstra | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231213)
 2023-12-20 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231220)
 2023-12-27 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231227)
 
