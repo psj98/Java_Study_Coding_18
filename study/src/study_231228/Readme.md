@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
-03 | 2560 | [짚신벌레](https://www.acmicpc.net/problem/2560) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 1261 | [알고스팟](https://www.acmicpc.net/problem/1261) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231228/problemset/boj_1261.java)
+02 | 1781 | [컵라면](https://www.acmicpc.net/problem/1781) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231228/problemset/boj_1781.java)
+03 | 2560 | [짚신벌레](https://www.acmicpc.net/problem/2560) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231228/problemset/boj_2560.java)
+04 | 6593 | [상범 빌딩](https://www.acmicpc.net/problem/6593) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_231228/problemset/boj_6593.java)
