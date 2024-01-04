@@ -10,6 +10,8 @@
 
 ## ✅ 문제 목차
 
+### 🔥 2023년
+
 ### 📌 2월
 날짜 | 주제 | 문제
 :---: | :---: | :---:
@@ -88,15 +90,15 @@
 :---: | :---: | :---:
 2023-09-06 | DP, 탐색, 구현, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230906)
 2023-09-15 | DP, 탐색, 위상 정렬, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230913)
-2023-09-22 | 프로젝트 및 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230920)
-2023-09-29 | 프로젝트 및 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_230927)
+2023-09-22 | 프로젝트 및 취업 준비로 인한 휴식 | []()
+2023-09-29 | 프로젝트 및 취업 준비로 인한 휴식 | []()
 
 <br/>
 
 ### 📌 10월
 날짜 | 주제 | 문제
 :---: | :---: | :---:
-2023-10-04 | 프로젝트 및 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231004)
+2023-10-04 | 프로젝트 및 취업 준비로 인한 휴식 | []()
 2023-10-11 | 시뮬레이션, 백트래킹, Dijkstra, BFS | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231011)
 2023-10-18 | Stack/Queue, 해시, DP, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231018)
 2023-10-25 | DP, 구현, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231025)
@@ -108,7 +110,7 @@
 :---: | :---: | :---:
 2023-11-01 | DP, 구현, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231101)
 2023-11-08 | 구현, 이분 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231108)
-2023-11-15 | 취업 준비로 인한 휴식 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231115)
+2023-11-15 | 취업 준비로 인한 휴식 | []()
 2023-11-22 | BFS / DFS, Union-Find | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231122)
 2023-11-29 | 탐색, 그래프, Greedy | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231129)
 
@@ -119,10 +121,11 @@
 :---: | :---: | :---:
 2023-12-06 | 힙, 이분 탐색, Dijkstra | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231206)
 2023-12-13 | DP, 이분 탐색, Dijkstra | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231213)
-2023-12-20 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231220)
-2023-12-27 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231227)
+2023-12-21 | DP, Greedy, Union-Find, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231221)
+2023-12-28 | DP, Greedy, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231228)
 
-***
+
+
 <br/>
 
 ## ✅ 언어
