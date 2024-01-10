@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1757 | [달려달려](https://www.acmicpc.net/problem/1757) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-03 | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 18428 | [감시 피하기](https://www.acmicpc.net/problem/18428) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 1757 | [달려달려](https://www.acmicpc.net/problem/1757) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240104/problemset/boj_1757.java)
+02 | 2110 | [공유기 설치](https://www.acmicpc.net/problem/2110) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240104/problemset/boj_2110.java)
+03 | 15685 | [드래곤 커브](https://www.acmicpc.net/problem/15685) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240104/problemset/boj_15685.java)
+04 | 18428 | [감시 피하기](https://www.acmicpc.net/problem/18428) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240104/problemset/boj_18428.java)
