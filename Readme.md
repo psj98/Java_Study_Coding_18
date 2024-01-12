@@ -124,7 +124,18 @@
 2023-12-21 | DP, Greedy, Union-Find, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231221)
 2023-12-28 | DP, Greedy, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_231228)
 
+<br/>
 
+---
+### 🔥 2024년
+
+### 📌 1월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2024-01-04 | DP, Greedy, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240104)
+2024-01-11 | ?? | []()
+2024-01-18 | ?? | []()
+2024-01-25 | ?? | []()
 
 <br/>
 
