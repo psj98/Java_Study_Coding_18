@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 2482 | [색상환](https://www.acmicpc.net/problem/2482) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 15971 | [두 로봇](https://www.acmicpc.net/problem/15971) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-04 | 17835 | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | []()
+01 | 1744 | [수 묶기](https://www.acmicpc.net/problem/1744) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240111/problemset/boj_1744.java)
+02 | 2482 | [색상환](https://www.acmicpc.net/problem/2482) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240111/problemset/boj_2482.java)
+03 | 15971 | [두 로봇](https://www.acmicpc.net/problem/15971) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240111/problemset/boj_15971.java)
+04 | 17835 | [면접보는 승범이네](https://www.acmicpc.net/problem/17835) | <img src="https://static.solved.ac/tier_small/14.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240111/problemset/boj_17835.java)
