@@ -134,7 +134,7 @@
 :---: | :---: | :---:
 2024-01-04 | DP, Greedy, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240104)
 2024-01-11 | Dijkstra, BFS, DP, Greedy | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240111)
-2024-01-18 | ?? | []()
+2024-01-18 | DP, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240118)
 2024-01-25 | ?? | []()
 
 <br/>
