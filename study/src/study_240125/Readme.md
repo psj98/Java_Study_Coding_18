@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2631 | [줄세우기](https://www.acmicpc.net/problem/2631) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 5427 | [불](https://www.acmicpc.net/problem/5427) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-03 | 12764 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 21758 | [꿀 따기](https://www.acmicpc.net/problem/21758) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 2631 | [줄세우기](https://www.acmicpc.net/problem/2631) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240125/problemset/boj_2631.java)
+02 | 5427 | [불](https://www.acmicpc.net/problem/5427) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240125/problemset/boj_5427.java)
+03 | 12764 | [싸지방에 간 준하](https://www.acmicpc.net/problem/12764) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240125/problemset/boj_12764.java)
+04 | 21758 | [꿀 따기](https://www.acmicpc.net/problem/21758) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240125/problemset/boj_21758.java)
