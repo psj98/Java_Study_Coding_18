@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-02 | 11058 | [크리보드](https://www.acmicpc.net/problem/11058) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-03 | 13975 | [파일 합치기 3](https://www.acmicpc.net/problem/13975) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-04 | 14722 | [우유 도시](https://www.acmicpc.net/problem/14722) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240201/problemset/boj_9466.java)
+02 | 11058 | [크리보드](https://www.acmicpc.net/problem/11058) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240201/problemset/boj_11058.java)
+03 | 13975 | [파일 합치기 3](https://www.acmicpc.net/problem/13975) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240201/problemset/boj_13975.java)
+04 | 14722 | [우유 도시](https://www.acmicpc.net/problem/14722) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240201/problemset/boj_14722.java)
