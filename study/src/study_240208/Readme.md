@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1344 | [축구](https://www.acmicpc.net/problem/1344) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 2251 | [물통](https://www.acmicpc.net/problem/2251) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-03 | 2437 | [세 용액](https://www.acmicpc.net/problem/2437) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 1344 | [축구](https://www.acmicpc.net/problem/1344) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240208/problemset/boj_1344.java)
+02 | 2251 | [물통](https://www.acmicpc.net/problem/2251) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240208/problemset/boj_2251.java)
+03 | 2437 | [세 용액](https://www.acmicpc.net/problem/2437) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240208/problemset/boj_2437.java)
+04 | 14891 | [톱니바퀴](https://www.acmicpc.net/problem/14891) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240208/problemset/boj_14891.java)
