@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
-02 | 15989 | [1, 2, 3, 더하기 4](https://www.acmicpc.net/problem/15989) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-03 | 17779 | [게리멘더링 2](https://www.acmicpc.net/problem/17779) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 19644 | [좀비 떼가 기관총 진지에도 오다니](https://www.acmicpc.net/problem/19644) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+01 | 9328 | [열쇠](https://www.acmicpc.net/problem/9328) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240215/problemset/boj_9328.java)
+02 | 15989 | [1, 2, 3, 더하기 4](https://www.acmicpc.net/problem/15989) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240215/problemset/boj_15989.java)
+03 | 17779 | [게리멘더링 2](https://www.acmicpc.net/problem/17779) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240215/problemset/boj_17779.java)
+04 | 19644 | [좀비 떼가 기관총 진지에도 오다니](https://www.acmicpc.net/problem/19644) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240215/problemset/boj_19644.java)
