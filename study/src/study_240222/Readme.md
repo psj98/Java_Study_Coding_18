@@ -1,4 +1,4 @@
-# DP, Greedy, 재귀
+# DP, Greedy, 재귀, 시뮬레이션
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 3067 | [Coins](https://www.acmicpc.net/problem/3067) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-02 | 12919 | [A와 B 2](https://www.acmicpc.net/problem/12919) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-03 | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-04 | 17822 | [원판 돌리기](https://www.acmicpc.net/problem/17822) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 3067 | [Coins](https://www.acmicpc.net/problem/3067) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240222/problemset/boj_3067.java)
+02 | 12919 | [A와 B 2](https://www.acmicpc.net/problem/12919) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240222/problemset/boj_12919.java)
+03 | 13164 | [행복 유치원](https://www.acmicpc.net/problem/13164) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240222/problemset/boj_13164.java)
+04 | 17822 | [원판 돌리기](https://www.acmicpc.net/problem/17822) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240222/problemset/boj_17822.java)
