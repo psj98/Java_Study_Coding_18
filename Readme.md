@@ -146,7 +146,7 @@
 2024-02-08 | DP, 탐색, 이분 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240208)
 2024-02-15 | DP, 구현, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240215)
 2024-02-22 | DP, Greedy, 재귀, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240222)
-2024-02-27 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240227)
+2024-02-29 | 백트래킹, 이분 탐색, 플로이드 와샬, 트리, DP | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240229)
 
 <br/>
 
