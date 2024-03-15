@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1911 | [흙길 보수하기](https://www.acmicpc.net/problem/1911) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-02 | 1939 | [중량제한](https://www.acmicpc.net/problem/1939) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 13398 | [연속합 2](https://www.acmicpc.net/problem/13398) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-04 | 13701 | [중복 제거](https://www.acmicpc.net/problem/13701) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 1911 | [흙길 보수하기](https://www.acmicpc.net/problem/1911) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240307/problemset/boj_1911.java)
+02 | 1939 | [중량제한](https://www.acmicpc.net/problem/1939) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240307/problemset/boj_1939.java)
+03 | 13398 | [연속합 2](https://www.acmicpc.net/problem/13398) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240307/problemset/boj_13398.java)
+04 | 13701 | [중복 제거](https://www.acmicpc.net/problem/13701) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240307/problemset/boj_13701.java)
