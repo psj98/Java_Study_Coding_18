@@ -155,7 +155,7 @@
 :---: | :---: | :---:
 2024-03-07 | DP, Greedy, 비트마스킹, 탐색 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240307)
 2024-03-14 | DP, Greedy, 탐색, MST | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240314)
-2024-03-21 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240321)
+2024-03-21 | DP, Dijkstra, 탐색, 백트래킹 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240321)
 2024-03-28 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240328)
 
 <br/>
