@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 2616 | [소형기관차](https://www.acmicpc.net/problem/2616) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 9944 | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-04 | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 1707 | [이분 그래프](https://www.acmicpc.net/problem/1707) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240321/problemset/boj_1707.java)
+02 | 2616 | [소형기관차](https://www.acmicpc.net/problem/2616) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240321/problemset/boj_2616.java)
+03 | 9944 | [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240321/problemset/boj_9944.java)
+04 | 14938 | [서강그라운드](https://www.acmicpc.net/problem/14938) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240321/problemset/boj_14938.java)
