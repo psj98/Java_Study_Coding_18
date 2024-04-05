@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2461 | [대표 선수](https://www.acmicpc.net/problem/2461) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
-02 | 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-03 | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-04 | 17141 | [연구소 2](https://www.acmicpc.net/problem/17141) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 2461 | [대표 선수](https://www.acmicpc.net/problem/2461) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240328/problemset/boj_2461.java)
+02 | 10986 | [나머지 합](https://www.acmicpc.net/problem/10986) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240328/problemset/boj_10986.java)
+03 | 15486 | [퇴사 2](https://www.acmicpc.net/problem/15486) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240328/problemset/boj_15486.java)
+04 | 17141 | [연구소 2](https://www.acmicpc.net/problem/17141) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240328/problemset/boj_17141.java)
