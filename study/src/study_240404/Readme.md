@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-02 | 2591 | [숫자카드](https://www.acmicpc.net/problem/2591) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-03 | 3584 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-04 | 17386 | [선분 교차 1](https://www.acmicpc.net/problem/17386) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
+01 | 2146 | [다리 만들기](https://www.acmicpc.net/problem/2146) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240404/problemset/boj_2146.java)
+02 | 2591 | [숫자카드](https://www.acmicpc.net/problem/2591) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240404/problemset/boj_2591.java)
+03 | 3584 | [가장 가까운 공통 조상](https://www.acmicpc.net/problem/3584) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240404/problemset/boj_3584.java)
+04 | 17386 | [선분 교차 1](https://www.acmicpc.net/problem/17386) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240404/problemset/boj_17386.java)
