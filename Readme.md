@@ -160,6 +160,16 @@
 
 <br/>
 
+### 📌 4월
+날짜 | 주제 | 문제
+:---: | :---: | :---:
+2024-04-04 | DP, Tree, 탐색, 기하학 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240404)
+2024-04-11 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240411)
+2024-04-18 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240418)
+2024-04-25 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240425)
+
+<br/>
+
 ## ✅ 언어
 
 ### 📌 Java
