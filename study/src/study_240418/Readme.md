@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 2109 | [순회강연](https://www.acmicpc.net/problem/2109) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | []()
-02 | 2157 | [여행](https://www.acmicpc.net/problem/2157) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-03 | 2800 | [괄호 제거](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
-04 | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
+01 | 2109 | [순회강연](https://www.acmicpc.net/problem/2109) | <img src="https://static.solved.ac/tier_small/13.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240418/problemset/boj_2109.java)
+02 | 2157 | [여행](https://www.acmicpc.net/problem/2157) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240418/problemset/boj_2157.java)
+03 | 2800 | [괄호 제거](https://www.acmicpc.net/problem/2800) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240418/problemset/boj_2800.java)
+04 | 9935 | [문자열 폭발](https://www.acmicpc.net/problem/9935) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240418/problemset/boj_9935.java)
