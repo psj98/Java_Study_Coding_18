@@ -166,7 +166,7 @@
 2024-04-04 | DP, Tree, 탐색, 기하학 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240404)
 2024-04-11 | Greedy, PriorityQueue, 누적합, 시뮬레이션 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240411)
 2024-04-18 | Greedy, DP, 문자열, 구현 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240418)
-2024-04-25 | ?? | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240425)
+2024-04-25 | DP, 누적합, 이분 탐색, 그래프 | [바로가기](https://github.com/psj98/Java_Study_Coding_18/tree/main/study/src/study_240425)
 
 <br/>
 
