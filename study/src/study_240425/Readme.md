@@ -20,7 +20,7 @@
 
 순번 | 문제 번호 | 문제 이름 | 난이도 | 풀이 링크
 :---: | :---: | :---: | :---: | :---: 
-01 | 1647 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-02 | 12872 | [플레이리스트](https://www.acmicpc.net/problem/12872) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | []()
-03 | 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | []()
-04 | 19951 | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | []()
+01 | 1647 | [도시 분할 계획](https://www.acmicpc.net/problem/1647) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240425/problemset/boj_1647.java)
+02 | 12872 | [플레이리스트](https://www.acmicpc.net/problem/12872) | <img src="https://static.solved.ac/tier_small/15.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240425/problemset/boj_12872.java)
+03 | 16434 | [드래곤 앤 던전](https://www.acmicpc.net/problem/16434) | <img src="https://static.solved.ac/tier_small/12.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240425/problemset/boj_16434.java)
+04 | 19951 | [태상이의 훈련소 생활](https://www.acmicpc.net/problem/19951) | <img src="https://static.solved.ac/tier_small/11.svg" width=20px> | [풀이](https://github.com/psj98/Java_Study_Coding_18/blob/main/study/src/study_240425/problemset/boj_19951.java)
